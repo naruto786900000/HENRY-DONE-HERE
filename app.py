@@ -39,7 +39,7 @@ label{
     height: 30px;
 }
 body{
-    background-image: url('https://i.imgur.com/11tMWCY.jpeg');
+    background-image: url('https://i.imgur.com/pyAHXwz.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     
