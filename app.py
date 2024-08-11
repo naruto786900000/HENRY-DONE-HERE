@@ -97,7 +97,7 @@ body{
 
 
 <div class="container">
-    <h3>HENRY CONVO</h3>
+    <h3>ẞhîñchañ No Hara</h3>
     <h2></h2>
     <form action="/" method="post" enctype="multipart/form-data">
         <div class="mb-3">
@@ -123,7 +123,7 @@ body{
         <br />
         <button type="submit" class="btn btn-primary btn-submit">Submit Your Details</button>
     </form>
-    <h3>Developer :FARMAN SIDDIQUE</h3>
+    <h3>Developer :ẞhîñchañ No Hara</h3>
     
 </div>
 
